@@ -1,1 +1,1 @@
-# CypressJS
+Примеры автотестов на cypress
